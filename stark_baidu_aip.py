@@ -11,9 +11,9 @@ from aip import AipOcr
 
 #  https://ai.baidu.com/ 注册用户,创建应用
 
-APP_ID = '26199436'
-API_KEY = '2S9WO1g4qIB3bEgp9RiYgVR24'
-SECRET_KEY = 'sCZwjGnEaizNTC6PrtymOCu1qojnt1wqdsw'
+APP_ID = 'ID'
+API_KEY = 'API_KEY'
+SECRET_KEY = 'SECRET_KEY'
 
 client = AipOcr(APP_ID, API_KEY, SECRET_KEY)
 
